@@ -1,0 +1,21 @@
+{
+  "name": "user-search-node",
+  "version": "1.0.0",
+  "description": "For Test purpose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "Test",
+    "user-search"
+  ],
+  "author": "Rajashekhar",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
